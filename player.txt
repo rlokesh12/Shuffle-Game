@@ -1,0 +1,5 @@
+nidhi 12 1 1 0
+shalini 0 0 1 0
+lokesh 13 0 1 0
+nishi 0 0 0 0
+loeks 0 0 0 0
